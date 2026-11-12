@@ -3,3 +3,9 @@ data/
 __pycache__/
 db.sqlite3
 .env
+.env
+venv/
+__pycache__/
+*.pyc
+*.swp
+*.bak
